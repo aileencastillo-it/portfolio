@@ -1,0 +1,20 @@
+title: "Aileen Castillo | QA Portfolio"
+
+name: "Aileen Castillo"
+
+description: >
+  Manual QA Tester | Accessibility Tester | Digital Product QA Specialist
+
+remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "default"
+
+markdown: kramdown
+
+plugins:
+  - jekyll-include-cache
+
+author:
+  name: "Aileen Castillo"
+  location: "Nueva Ecija, Philippines"
+  email: "aileencastillo.it@gmail.com"
